@@ -1,0 +1,1 @@
+My first Physics.js project. I just tweeked one of the demo projects so that the satellite drops little asteroids as it orbits the planet.    
