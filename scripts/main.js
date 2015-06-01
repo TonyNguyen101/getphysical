@@ -104,7 +104,7 @@ Physics(function (world) {
           fillStyle: 'white',
         }
       });
-      /*world.add(line);   */
+      world.add(line);   
     });
 
 });
